@@ -16,6 +16,9 @@ main:
     weight: 40
     hasChildren: true
   - parent: Resources
+    name: blog
+    url: blog/  
+  - parent: Resources
     name: media coverage
     url: media_coverage/
   - parent: Resources
