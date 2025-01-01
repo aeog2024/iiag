@@ -1,6 +1,6 @@
 ---
 title: Edward Said
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
+summary: As a professor of literature at Columbia University, Edward Said was among the founders of post-colonial studies.
 date: 2024-01-01
 tags:
   - Edward Said
