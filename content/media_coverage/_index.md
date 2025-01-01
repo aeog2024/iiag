@@ -1,3 +1,3 @@
 ---
-title: Blog
+title: media coverage
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ilan Pappé
-summary: He is a professor with the College of Social Sciences and International Studies at the University of Exeter in the United Kingdom, director of the university's European Centre for Palestine Studies, and co-director of the Exeter Centre for Ethno-Political Studies.
+summary: Ilan Pappé is a professor with the College of Social Sciences and International Studies at the University of Exeter in the United Kingdom, director of the university's European Centre for Palestine Studies, and co-director of the Exeter Centre for Ethno-Political Studies.
 date: 2024-01-01
 tags:
   - Ilan Pappé
