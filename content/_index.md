@@ -12,6 +12,11 @@ sections:
     content:
       title: All Eyes on Gaza
       text: Documenting the on-going genocide in Gaza from a European perspective 
+    announcement:
+      text: "First posts 1/1/2025."
+      link:
+        text: "Read more"
+        url: "/blog/"  
     design:
       spacing:
         padding: [0, 0, 0, 0]
