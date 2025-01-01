@@ -18,3 +18,6 @@ main:
   - parent: Resources
     name: Blog
     url: blog/
+  - parent: Resources
+    name: media coverage
+    url: media_coverage/
