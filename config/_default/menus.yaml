@@ -21,3 +21,18 @@ main:
   - parent: Resources
     name: media coverage
     url: media_coverage/
+  - parent: Resources
+    name: academic references
+    url: academic_references/    
+  - parent: Resources
+    name: NGOs
+    url: ngo/       
+  - parent: Resources
+    name: podcasts
+    url: podcasts/     
+  - parent: Resources
+    name: corporations
+    url: corporations/
+   - parent: Resources
+    name: take action
+    url: take_action/       
