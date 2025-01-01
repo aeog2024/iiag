@@ -33,6 +33,6 @@ main:
   - parent: Resources
     name: corporations
     url: corporations/
-   - parent: Resources
+  - parent: Resources
     name: take action
     url: take_action/       
