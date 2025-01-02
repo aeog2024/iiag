@@ -1,23 +1,24 @@
 ---
-title: Omer Bartov
-summary: Omer Bartov (born 1954) is an Israeli-American historian. He is the Samuel Pisar Professor of Holocaust and Genocide Studies at Brown University, where he has taught since 2000.
+title: Gideon Levy
+summary: Gideon Levy (born 2 June 1953) is an Israeli journalist and author. 
 date: 2024-01-02
 tags:
-  - Omer Bartov
+  - Gideon Levy
   - Palestine
 image:
-  caption: 'Image credit: [USC Dornsife](https://sfi.usc.edu/sites/default/files/backgrounds/2017/04/bartov_hero.jpg)'
+  caption: 'Image credit: [Flamman](https://www.flamman.se/han-ar-israels-mest-hatade-journalist/)'
 ---
 
-Bartov is a historian of the Holocaust and is considered one of the world's leading authorities on genocide.
+Levy writes opinion pieces and a weekly column for the newspaper Haaretz that often focus on the Israeli occupation of the Palestinian territories.
 
-> There is no war in Gaza. The IDF is in control and there is no organized resistance. (...) What the IDF is doing thre is destroying Gaza. (...) The reports by soldiers is that they have never seen such a devastation. (...) It looks like Hiroshima, like Germany at the end of the second world war. What is it trying to accomplish? (...) It's a war of annihilation of the entire Gaza strip with focus on the north. <br> <br> [Omer Bartov on CNN - 19/12/2024]
+> What Israel is doing, is to take advantage of the weakness of the Arab world. <br> Israeli politicians who openly talked about how Israel should extend its borders beyond the current borders into parts of Syria, Iraq, Jordan, Lenanon, Saudi Arabia, ... This quote hasn't happened in the 100 years since the Sykes-Pico agreement. (...) <br> Those versions of colonialism passed away long time ago and the only remaining colonial country is Israel. (...) Nobody believes that this is possible. <br> <br> [Gideon Levy on Al Jazeera - 20/12/2024]
 
 ## Bibliography
 
-- Anatomy of a Genocide: The Life and Death of a Town Called Buczacz, Simon & Schuster, 2018
-- The Butterfly and the Axe, Amsterdam Publishers, 2023
+- Twilight Zone – Life and Death under the Israeli Occupation. 1988–2003. Tel Aviv: Babel Press, 2004
+- The Punishment of Gaza, Verso Books, 2010.
+- The Killing of Gaza: Reports on a Catastrophe, Verso Books, 2024.
 
 ## Sources
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Omer_Bartov)
+- [Wikipedia](https://en.wikipedia.org/wiki/Gideon_Levy)
