@@ -1,3 +1,3 @@
 ---
-title: academic references
+title: journalistic and academic references
 ---

@@ -9,9 +9,6 @@ main:
   - name: Features
     url: /#features
     weight: 20
-  - name: Solutions
-    url: /#solutions
-    weight: 30
   - name: Resources
     weight: 40
     hasChildren: true
@@ -22,7 +19,7 @@ main:
     name: media coverage
     url: media_coverage/
   - parent: Resources
-    name: academic references
+    name: journalistic and academic references
     url: academic_references/    
   - parent: Resources
     name: NGOs

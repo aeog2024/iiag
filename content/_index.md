@@ -39,7 +39,7 @@ sections:
   - block: features
     id: features
     content:
-      title: documentation
+      title: Features
       text: check the different categories
       items:
         - name: media coverage
