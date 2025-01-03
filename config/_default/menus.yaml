@@ -19,7 +19,7 @@ main:
     name: media coverage
     url: media_coverage/
   - parent: Resources
-    name: journalistic and academic references
+    name: authors, artists, ...
     url: academic_references/    
   - parent: Resources
     name: NGOs
