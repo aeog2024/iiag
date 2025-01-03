@@ -1,6 +1,6 @@
 ---
 title: Didier Billion
-summary: Didier Billion est directeur adjoint de l’IRIS.
+summary: Didier Billion est directeur adjoint de l'IRIS.
 date: 2024-01-02
 tags:
   - Didier Billion
@@ -13,7 +13,7 @@ Didier Billion holds a PhD in Political Science and a certificate in History and
 
 ## Articles on Palestine
 
-[Gaza… jusqu’à quand ? (IRIS, 31/5/2024)](https://www.iris-france.org/186735-gaza-jusqua-quand/)
+[Gaza… jusqu'à quand ? (IRIS, 31/5/2024)](https://www.iris-france.org/186735-gaza-jusqua-quand/)
 
 
 ## Bibliography
