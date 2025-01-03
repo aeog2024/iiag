@@ -14,7 +14,7 @@ Teva specializes primarily in generic drugs, but other business interests includ
 In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
 
 
-
+## Instututional shareholders and partnerships
 
 ```markmap
 - institutional 
@@ -72,4 +72,66 @@ In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
       Funds Ltd.
     - State of Wisconsin 
       Investment Board  
+```
+
+
+## Products
+
+```markmap
+- Teva Pharmaceuticals 
+  Industries products    
+  - Duvakitug
+    - Ulcerative Colitis
+    - Crohn’s Disease
+    - inflammatory 
+      bowel disease
+  - AirDuo® RespiClick®  
+  - ProAir® HFA
+  - SteadyTeqT
+  - UZEDY®
+  - AJOVY®
+    - migraine    
+  - Diclox forte
+    - painkiller  
+  - SELARSDI™
+  - SIMLANDI®
+  - Prolia®
+  - Copaxone
+  - Sandostatin®
+    - severe diarrhea 
+      for carcinoid 
+      syndrome  
+  - Ratiopharm
+    - Clonidin
+      - antihypertensives
+    - paracetamol 
+      fever syrup     
+```
+
+
+
+
+## Scandals
+
+```markmap
+- Teva Pharmaceuticals 
+  Industries scandals
+  - 2019 price fixing USA
+    - diabetes
+    - cholesterol
+    - hypertension
+    - cancer
+    - epilepsy
+  - 2024 patent 
+    to exclude 
+    firms entry EU
+    - multiple sklerose
+    - copaxone
+    - glatirameracetat
+    - 462,6 m 
+      Euro fine  
+  - 2013 diuretic
+    - Furosémide
+  - 2014 Mylan SAS
+  - 2019 opioide crisis      
 ```
