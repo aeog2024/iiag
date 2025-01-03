@@ -1,3 +1,3 @@
 ---
-title: journalistic and academic references
+title: authors, artists, ...
 ---

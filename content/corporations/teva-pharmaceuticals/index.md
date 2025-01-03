@@ -14,7 +14,7 @@ Teva specializes primarily in generic drugs, but other business interests includ
 In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
 
 
-## Instututional shareholders and partnerships
+## Institutional shareholders and partnerships
 
 ```markmap
 - institutional 
