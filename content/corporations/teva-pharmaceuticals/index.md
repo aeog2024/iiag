@@ -19,8 +19,9 @@ In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
 ```markmap {height="200px"}
 - institutional <br> shareholders <br> and partnerships
   - Institutional <br> shareholders
-    - The Vanguard <br> Group
-    - Norges Bank <br> Investment <br> Management
+    - The Vanguard \\ Group
+    - Norges Bank  
+      Investment <br> Management
     - KSM Mutual <br> Funds Ltd.
     - Meitav Mutual <br> Funds Ltd.
     - Migdal Mutual <br> Funds Ltd.
