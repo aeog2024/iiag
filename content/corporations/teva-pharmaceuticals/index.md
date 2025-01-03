@@ -21,7 +21,29 @@ In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
   - Institutional <br> shareholders
     - The Vanguard <br> Group
     - Norges Bank <br> Investment <br> Management
+    - KSM Mutual <br> Funds Ltd.
+    - Meitav Mutual <br> Funds Ltd.
+    - Migdal Mutual <br> Funds Ltd.
+    - Harel Mutual <br> Funds Ltd.
+    - Charles Schwab <br> Investment <br> Management Inc.
+    - Canada Pension Plan <br> Investment Board
+    - Vanguard Global <br> Advisers LLC
+    - APG Asset <br> Management NV
   - Ratiopharm DE
   - Mepha CH
   - Takeda JP
+    - divestment
+  - mAbxience <br> partnership
+    - Fresenius Kabi
+    - Insud Pharma
+  - Cephalon
+  - Medincell <br> partnership
+    - UZEDY® - schizophrenia
+    - Perseris®      
+  - recently <br> bought <br> shares
+    - Migdal Mutual <br> Funds Ltd.
+    - Yelin Lapidot <br> Mutual Fund <br> Management Ltd.
+    - Phoenix <br> Provident <br> Fund Ltd.
+    - KSM Mutual <br> Funds Ltd.
+    - State of Wisconsin <br> Investment Board  
 ```
