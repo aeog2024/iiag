@@ -17,34 +17,59 @@ In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
 
 
 ```markmap {height="200px"}
-- institutional <br> shareholders <br> and partnerships
-  - Institutional <br> shareholders
-    - The Vanguard \\ Group
+- institutional 
+  shareholders  
+  and partnerships
+  - Institutional 
+    shareholders
+    - The Vanguard 
+      Group
     - Norges Bank  
-      Investment <br> Management
-    - KSM Mutual <br> Funds Ltd.
-    - Meitav Mutual <br> Funds Ltd.
-    - Migdal Mutual <br> Funds Ltd.
-    - Harel Mutual <br> Funds Ltd.
-    - Charles Schwab <br> Investment <br> Management Inc.
-    - Canada Pension Plan <br> Investment Board
-    - Vanguard Global <br> Advisers LLC
-    - APG Asset <br> Management NV
+      Investment 
+      Management
+    - KSM Mutual 
+      Funds Ltd.
+    - Meitav Mutual 
+      Funds Ltd.
+    - Migdal Mutual 
+      Funds Ltd.
+    - Harel Mutual 
+      Funds Ltd.
+    - Charles Schwab 
+      Investment 
+      Management Inc.
+    - Canada Pension Plan 
+      Investment Board
+    - Vanguard Global 
+      Advisers LLC
+    - APG Asset 
+      Management NV
   - Ratiopharm DE
   - Mepha CH
   - Takeda JP
     - divestment
-  - mAbxience <br> partnership
+  - mAbxience 
+    partnership
     - Fresenius Kabi
     - Insud Pharma
   - Cephalon
-  - Medincell <br> partnership
+  - Medincell 
+    partnership
     - UZEDY® - schizophrenia
     - Perseris®      
-  - recently <br> bought <br> shares
-    - Migdal Mutual <br> Funds Ltd.
-    - Yelin Lapidot <br> Mutual Fund <br> Management Ltd.
-    - Phoenix <br> Provident <br> Fund Ltd.
-    - KSM Mutual <br> Funds Ltd.
-    - State of Wisconsin <br> Investment Board  
+  - recently 
+    bought 
+    shares
+    - Migdal Mutual 
+      Funds Ltd.
+    - Yelin Lapidot 
+      Mutual Fund 
+      Management Ltd.
+    - Phoenix 
+      Provident 
+      Fund Ltd.
+    - KSM Mutual 
+      Funds Ltd.
+    - State of Wisconsin 
+      Investment Board  
 ```
