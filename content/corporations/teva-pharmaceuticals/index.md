@@ -16,7 +16,7 @@ In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
 
 
 
-```markmap {height="200px"}
+```markmap
 - institutional 
   shareholders  
   and partnerships
