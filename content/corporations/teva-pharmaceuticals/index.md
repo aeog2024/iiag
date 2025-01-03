@@ -14,6 +14,14 @@ Teva specializes primarily in generic drugs, but other business interests includ
 In 2010, Teva acquired the German pharmaceutical company **Ratiopharm**.
 
 
+```mermaid
+graph TD
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
 
 ## Institutional shareholders and partnerships
 
@@ -79,8 +87,8 @@ mindmap
         severe diarrhea <br> for carcinoid <br> syndrome
       Ratiopharm
         Clonidin
-          Blutdrucksenker
-        Paracetamol Fiebersaft 
+          antihypertensives
+        paracetamol fever syrup 
 
 ```
 
