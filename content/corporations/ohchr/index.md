@@ -16,7 +16,7 @@ settlements on the civil, political, economic, social and cultural rights of the
 Palestinian Territory, including East Jerusalem.
 
 
-{{< table path="list-firms.csv" header="true" caption="Table 1: Firms with implications in the Occupied
+{{< table path="list-firms-test.csv" header="true" caption="Table 1: Firms with implications in the Occupied
 Palestinian Territory, including East Jerusalem " >}}
 
 [Full List (updated october 2024)](https://documents.un.org/doc/undoc/gen/g24/128/97/pdf/g2412897.pdf)
