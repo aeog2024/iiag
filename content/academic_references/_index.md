@@ -1,3 +1,3 @@
 ---
-title: authors, artists, activists ...
+title: individuals for justice
 ---
