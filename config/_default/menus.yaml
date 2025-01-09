@@ -19,8 +19,8 @@ main:
     name: media coverage
     url: media_coverage/
   - parent: Resources
-    name: authors, artists, activists ...
-    url: academic_references/    
+    name: individuals for justice
+    url: individual_for_justice/    
   - parent: Resources
     name: NGOs
     url: ngo/       
