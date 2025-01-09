@@ -33,3 +33,6 @@ main:
   - parent: Resources
     name: take action
     url: take_action/       
+  - parent: Resources
+    name: academic material
+    url: academic/           
