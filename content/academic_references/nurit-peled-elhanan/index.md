@@ -1,24 +1,24 @@
 ---
-title: Walter L. Hixson
-summary: Walter L. Hixson 
+title: Nurit Peled-Elhanan
+summary: Nurit Peled-Elhanan (an Israeli philologist, professor of language and education at the Hebrew University of Jerusalem, translator, and activist. 
 date: 2024-01-09
 tags:
-  - Walter L. Hixson
+  - Nurit Peled-Elhanan
   - Palestine
 image:
-  caption: 'Image credit: [Counter Hegemonic Studies](https://counter-hegemonic-studies.site/hixson-israel-apartheid-1/)'
+  caption: 'Image credit: [Perspektif](https://perspektif.eu/2024/03/29/nurit-peled-elhanan-filistinliler-israillilerin-bilincinde-yoklar/)'
 ---
 
 
-Walter L. Hixson is a diplomatic and cultural historian and the author of American Settler Colonialism: A History (Palgrave Macmillan, 2013), which received an Outstanding Academic Title designation from Choice. His other work includes Israel's Armor: The Israel Lobby and the First Generation of the Palestine Conflict (Cambridge University Press, 2019), American Foreign Relations: A New Diplomatic History (Routledge, 2015), The Myth of American Diplomacy: National Identity and US Foreign Policy (Yale University Press, 2008), which also received the Choice designation; Parting the Curtain: Propaganda, Culture, and the Cold War, 1945-1961 (St. Martin’s Press, 1997); Witness to Disintegration: Provincial Life in the Last Year of the USSR (University Press of New England, 1993); and George F. Kennan: Cold War Iconoclast (Columbia University Press, 1989; winner of the Bernath Book Prize).  He has published numerous additional and wide-ranging books, articles, and essays, including assessments of the Vietnam War in history and memory, analysis of Tom Clancy’s novels as a reflection of Reagan-era national security mentalities, and the cultural context of sensational crimes in American history.
-
-In 2012 Hixson traveled throughout Israel and the Occupied Palestinian Territories with the NGO Interfaith Peace Builders, concluding with a solo tour of Lebanon.
+Nurit Peled-Elhanan is a 2001 co-laureate of the Sakharov Prize for Freedom of Thought awarded by the European Parliament. She is known for her research on the portrayal of Palestinians in Israeli textbooks, which she has criticized as being anti-Palestinian. Elhanan supports the Boycott, Divestment and Sanctions (BDS) movement.
 
 
-![Israel's Armor](https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2019/07/Israel%E2%80%99s-Armor-The-Israel-Lobby-and-the-First-Generation-of-the-Palestine-Conflict-by-Walter-L-Hixson.jpg?resize=331%2C499&quality=75&strip=all&ssl=1)
+
+![Palestine in Israeli School Books](https://pictures.abebooks.com/isbn/9781780765051-uk.jpg)
 
 
 
 ## Sources
 
-- [University of Akron](https://www.uakron.edu/history/faculty-staff/bio-detail.dot?u=walter4)
+- [Wikipedia](https://en.wikipedia.org/wiki/Nurit_Peled-Elhanan)
+- Peled-Elhanan, Nurit. Palestine in Israeli school books: Ideology and propaganda in education. Bloomsbury Publishing, 2013.
