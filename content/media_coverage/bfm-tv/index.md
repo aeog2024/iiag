@@ -5,6 +5,7 @@ date: 2025-01-01
 tags:
   - BFM TV
   - media coverage
+  - Altice
 image:
   caption: 'Image credit: [**Wikipedia**](https://en.wikipedia.org/wiki/File:Logo_BFMTV_2019.svg#/media/File:Logo_BFMTV_2019.svg)'
 ---
