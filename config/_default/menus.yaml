@@ -20,7 +20,7 @@ main:
     url: media_coverage/
   - parent: Resources
     name: individuals for justice
-    url: individual_for_justice/    
+    url: individualforjustice/    
   - parent: Resources
     name: NGOs
     url: ngo/       
