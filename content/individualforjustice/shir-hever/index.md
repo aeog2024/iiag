@@ -1,7 +1,7 @@
 ---
 title: Shir Hever
 summary: Shir Hever studies the economic aspects of the Israeli occupation of the Palestinian territory.
-date: 2024-01-02
+date: 2025-01-02
 tags:
   - Shir Hever
   - Palestine

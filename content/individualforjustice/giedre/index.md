@@ -1,7 +1,7 @@
 ---
 title: GiedRé
 summary: Singer and song-writer.
-date: 2024-01-03
+date: 2025-01-03
 tags:
   - GiedRé
   - Palestine

@@ -1,7 +1,7 @@
 ---
 title: Nurit Peled-Elhanan
 summary: Nurit Peled-Elhanan (an Israeli philologist, professor of language and education at the Hebrew University of Jerusalem, translator, and activist. 
-date: 2024-01-09
+date: 2025-01-09
 tags:
   - Nurit Peled-Elhanan
   - Palestine

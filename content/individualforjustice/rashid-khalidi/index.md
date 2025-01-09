@@ -1,7 +1,7 @@
 ---
 title: Rashid Khalidi
 summary: Rashid Ismail Khalidi (born 18 November 1948) is a Palestinian-American historian of the Middle East and the Edward Said Professor Emeritus of Modern Arab Studies at Columbia University.
-date: 2024-01-02
+date: 2025-01-02
 tags:
   - Rashid Khalidi
   - Palestine

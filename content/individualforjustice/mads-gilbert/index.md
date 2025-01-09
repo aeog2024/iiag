@@ -1,7 +1,7 @@
 ---
 title: Mads Gilbert
 summary: Mads Fredrik Gilbert (born 2 June 1947) is a Norwegian physician, humanitarian, activist, and politician for the Red Party.
-date: 2024-01-04
+date: 2025-01-04
 tags:
   - Mads Gilbert
   - Palestine

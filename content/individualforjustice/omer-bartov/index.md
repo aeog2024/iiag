@@ -1,7 +1,7 @@
 ---
 title: Omer Bartov
 summary: Omer Bartov (born 1954) is an Israeli-American historian. He is the Samuel Pisar Professor of Holocaust and Genocide Studies at Brown University, where he has taught since 2000.
-date: 2024-01-02
+date: 2025-01-02
 tags:
   - Omer Bartov
   - Palestine

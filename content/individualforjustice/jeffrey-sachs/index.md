@@ -1,7 +1,7 @@
 ---
 title: Jeffrey Sachs
 summary: Jeffrey David Sachs (born November 5, 1954) is an American economist and public policy analyst who is a professor at Columbia University, where he was former director of The Earth Institute. He worked on the topics of sustainable development and economic development.
-date: 2024-01-03
+date: 2025-01-03
 tags:
   - Jeffrey Sachs
   - Palestine

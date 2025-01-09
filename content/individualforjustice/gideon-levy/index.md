@@ -1,7 +1,7 @@
 ---
 title: Gideon Levy
 summary: Gideon Levy (born 2 June 1953) is an Israeli journalist and author. 
-date: 2024-01-02
+date: 2025-01-02
 tags:
   - Gideon Levy
   - Palestine

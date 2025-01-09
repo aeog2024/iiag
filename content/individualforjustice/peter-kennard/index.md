@@ -1,7 +1,7 @@
 ---
 title: Peter Kennard
 summary: Peter Kennard (born 1949) is arguably the most revered political artist working in Britain today. 
-date: 2024-01-03
+date: 2025-01-03
 tags:
   - Peter Kennard
   - Palestine

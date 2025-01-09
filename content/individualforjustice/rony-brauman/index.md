@@ -1,7 +1,7 @@
 ---
 title: Rony Brauman
 summary: Rony Brauman (born 19 June 1950) is a French physician specializing in tropical diseases and a former president of Médecins sans frontières (Doctors without Borders).
-date: 2024-01-02
+date: 2025-01-02
 tags:
   - Rony Brauman
   - Palestine

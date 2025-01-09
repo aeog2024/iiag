@@ -1,7 +1,7 @@
 ---
 title: Avi Shlaim
 summary: Avi Shlaim (born 31 October 1945) is an Israeli and British historian of Iraqi Jewish descent. He is one of Israel's "New Historians", a group of Israeli scholars who put forward critical interpretations of the history of Zionism and Israel.
-date: 2024-01-04
+date: 2025-01-04
 tags:
   - Avi Shlaim
   - Palestine

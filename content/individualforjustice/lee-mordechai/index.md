@@ -1,7 +1,7 @@
 ---
 title: Lee Mordechai
 summary: Lee Mordechai (The Hebrew University of Jerusalem) is a Byzantine environmental historian who specializes in the study of past interactions between Byzantine society and its environment. 
-date: 2024-01-07
+date: 2025-01-07
 tags:
   - Lee Mordechai
   - Palestine

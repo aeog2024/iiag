@@ -1,7 +1,7 @@
 ---
 title: Susan Abulhawa
 summary: Susan Abulhawa (born June 3, 1970) is a Palestinian-American scientist, writer and activist.
-date: 2024-01-02
+date: 2025-01-02
 tags:
   - Shir Hever
   - Palestine

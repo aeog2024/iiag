@@ -1,7 +1,7 @@
 ---
 title: Walter L. Hixson
 summary: Walter L. Hixson 
-date: 2024-01-09
+date: 2025-01-09
 tags:
   - Walter L. Hixson
   - Palestine

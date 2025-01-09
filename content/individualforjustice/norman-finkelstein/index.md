@@ -1,7 +1,7 @@
 ---
 title: Norman Finkelstein
 summary: Norman Gary Finkelstein (born December 8, 1953) is an American political scientist and activist. 
-date: 2024-01-03
+date: 2025-01-03
 tags:
   - Norman Finkelstein
   - Palestine

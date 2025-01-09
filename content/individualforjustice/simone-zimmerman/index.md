@@ -1,7 +1,7 @@
 ---
 title: Simone Zimmerman
 summary: Simone Rimmon Zimmerman is an American activist and founder of IfNotNow, a group that challenges the Jewish establishment's support for Israel. 
-date: 2024-01-07
+date: 2025-01-07
 tags:
   - Simone Zimmerman
   - Palestine
