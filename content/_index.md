@@ -45,9 +45,9 @@ sections:
         - name: media coverage
           icon: tv
           description: Media coverage of the on-going genocide in Gaza.
-        - name: academic references
+        - name: individuals for justice
           icon: academic-cap
-          description: Academic references of the israeli occupation of Palestine.
+          description: Authors and activists against the israeli occupation of Palestine.
         - name: NGOs
           icon: lifebuoy
           description: NGOs that have been active.
