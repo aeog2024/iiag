@@ -1,7 +1,7 @@
 ---
 title: Macklemore
 summary: Macklemore is an American singer and rapper who rose to fame as a part of the well-known hip hop duo Macklemore & Ryan Lewis.
-date: 2025-01-1
+date: 2025-01-11
 tags:
   - Macklemore
   - Palestine
