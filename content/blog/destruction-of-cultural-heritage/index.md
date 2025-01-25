@@ -7,8 +7,7 @@ tags:
   - Gaza
   - Genocide
 image:
-  caption: 'Image credit: [**Gaza's Great Omari Mosque
- **](https://www.scmp.com/news/world/middle-east/article/3244472/gazas-great-omari-mosque-ruins-after-israeli-bombing-hamas-says)'
+  caption: 'Image credit: [**Gaza's Great Omari Mosque**](https://www.scmp.com/news/world/middle-east/article/3244472/gazas-great-omari-mosque-ruins-after-israeli-bombing-hamas-says)'
 ---
 
 
