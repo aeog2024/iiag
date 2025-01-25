@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'All Eyes on Gaza.'
+    #twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,10 +37,10 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "palestine.jpg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+    #button:
+    #  enable: true
+    #  text: "Get Started"
+    #  url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
 
