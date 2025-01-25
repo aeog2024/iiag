@@ -10,3 +10,9 @@ image:
 ---
 
 
+
+
+
+## Sources
+
+- [Journal of Palestine Studies](https://www.tandfonline.com/journals/rpal20)
