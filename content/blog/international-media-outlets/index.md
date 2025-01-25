@@ -20,6 +20,8 @@ image:
 - [Al Jazeera](https://www.aljazeera.com/)
 - [Middle East Monitor (MEMO)](https://www.middleeastmonitor.com/)
 - [Al-Monitor](https://www.al-monitor.com/)
+- [Drop Site News](https://www.dropsitenews.com/)
+- [+972 Magazine](https://www.972mag.com/)
 
 ## Smaller outlets
 
