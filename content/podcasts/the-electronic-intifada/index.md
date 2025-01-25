@@ -7,13 +7,13 @@ tags:
   - Nora Barrows-Friedman
   - podcasts
 image:
-  caption: 'Image credit: [**BadHasbara Youtube channel**](https://www.youtube.com/@Badhasbara)'
+  caption: 'Image credit: [**The Electronic Intifada Youtube channel**](https://www.youtube.com/@TheElectronicIntifada)'
 ---
 
 
 The Electronic Intifada is an independent online news publication and educational resource focusing on Palestine, its people, politics, culture and place in the world. 
 
-Founded in 2001, The Electronic Intifada has won awards and earned widespread recognition for publishing original, high-quality news and analysis, and first-person accounts and reviews. The Electronic Intifada’s writers and reporters include Palestinians and others living inside Palestine and everywhere else that news about Palestine and Palestinians is made.
+Founded in 2001, The Electronic Intifada has won awards and earned widespread recognition for publishing original, high-quality news and analysis, and first-person accounts and reviews. The Electronic Intifada's writers and reporters include Palestinians and others living inside Palestine and everywhere else that news about Palestine and Palestinians is made.
 
 
 
