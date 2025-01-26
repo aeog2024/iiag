@@ -11,7 +11,8 @@ sections:
   - block: hero
     content:
       title: All Eyes on Gaza
-      text: Documenting the on-going genocide in Gaza from a European perspective <br> Check the Resources in the upper menu and read the [**blog**](https://aeog2024.github.io/iiag/blog/)
+      text: It's not the time to study Palestine, <br> but to defend the existence of Palestinians. <br> *Yanis Varoufakis* 
+      #Documenting the on-going genocide in Gaza from a European perspective <br> Check the Resources in the upper menu and read the [**blog**](https://aeog2024.github.io/iiag/blog/)
     announcement:
       text: "First posts 1/1/2025."
       link:
