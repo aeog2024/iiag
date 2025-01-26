@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: All Eyes on Gaza
-      text: It's not the time to study Palestine, <br> but to defend the existence of Palestinians. <br> *Yanis Varoufakis* 
+      text: It's not the time to study Palestine, <br> but to defend the existence of Palestinians. <br> [*Yanis Varoufakis*](https://www.palestine-studies.org/en/node/1654472) 
       #Documenting the on-going genocide in Gaza from a European perspective <br> Check the Resources in the upper menu and read the [**blog**](https://aeog2024.github.io/iiag/blog/)
     announcement:
       text: "First posts 1/1/2025."
