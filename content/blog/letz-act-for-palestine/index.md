@@ -12,3 +12,8 @@ image:
 ---
 
 > We, the people of Luxembourg; mothers, fathers, youth, and elders, have united in solidarity, refusing to turn a blind eye to war and violence. Our mission is to advocate for justice and equality through peaceful activism and community engagement. We welcome all who share our commitment to protecting the vulnerable, regardless of faith, belief, or background to take action.
+
+
+## Source
+
+- [Letz Act For Palestine](https://www.letzactforpalestine.com/)
