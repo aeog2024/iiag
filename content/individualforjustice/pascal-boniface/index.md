@@ -11,6 +11,9 @@ image:
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jHR_mc_KaZU?si=e4xWwdq2BmQz00E1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## Videos
 
@@ -30,3 +33,4 @@ image:
 - La France malade du conflit israélo-palestinien, Paris, Salvator, 2014, 222 p. (ISBN 978-2-7067-1115-2)
 - Les Pompiers pyromanes : ces experts qui alimentent l'antisémitisme et l'islamophobie, Max Milo éditions, 2015 
 - Antisémite (préf. Michel Wieviorka), Max Milo, coll. « Essais document », janvier 2018, 201 p. (ISBN 978-2-315-00824-7 et 2-315-00824-7)
+- Permis de tuer - Gaza : génocide, négationnisme et hasbara, avril 2025 (ISBN 9782315024391)
