@@ -43,7 +43,7 @@ sections:
       title: Features
       text: check the different categories
       items:
-        - name: media coverage
+        - name: [media coverage](https://aeog2024.github.io/iiag/individualforjustice/)
           icon: tv
           description: Media coverage of the on-going genocide in Gaza.
         - name: individuals for justice
