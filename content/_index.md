@@ -45,7 +45,7 @@ sections:
       items:
         - name: media coverage
           icon: tv
-          description: Media coverage of the on-going genocide in Gaza.
+          description: Media coverage of the on-going genocide in Gaza. Read more [here](/media-coverage/)
         - name: individuals for justice
           icon: academic-cap
           description: Authors and activists against the israeli occupation of Palestine.
