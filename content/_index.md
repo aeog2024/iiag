@@ -45,7 +45,7 @@ sections:
       items:
         - name: media coverage
           icon: tv
-          description: [Media coverage](https://aeog2024.github.io/iiag/individualforjustice/) of the on-going genocide in Gaza.
+          description: Media coverage of the on-going genocide in Gaza.
         - name: individuals for justice
           icon: academic-cap
           description: Authors and activists against the israeli occupation of Palestine.
