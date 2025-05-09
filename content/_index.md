@@ -46,7 +46,7 @@ sections:
         - name: media coverage
           icon: tv
           description: Media coverage of the on-going genocide in Gaza. 
-        - name: individuals for justice
+        - name: [individuals for justice](../iiag/individualforjustice/)
           icon: academic-cap
           description: Authors and activists against the israeli occupation of Palestine. [*Read more here*](../iiag/individualforjustice/)
         - name: NGOs
