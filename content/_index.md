@@ -45,20 +45,20 @@ sections:
       items:
         - name: media coverage
           icon: tv
-          description: Media coverage of the on-going genocide in Gaza. 
+          description: Media coverage of the on-going genocide in Gaza. [*Read more here*](../iiag/media_coverage/)
         - name: individuals for justice
           icon: academic-cap
           description: Authors and activists against the israeli occupation of Palestine. [*Read more here*](../iiag/individualforjustice/)
         - name: NGOs
           icon: lifebuoy
-          description: NGOs that have been active.
+          description: NGOs that have been active. [*Read more here*](../iiag/ngo/)
         - name: podcasts
           icon: radio
           description: Podcasts that will make you aware of what is really going on in our societies and in Palestine.
         - name: corporations
           icon: building-office-2
-          description: Corporations that are enabling Palestine's occupation and the on-going genocide.
+          description: Corporations that are enabling Palestine's occupation and the on-going genocide. [*Read more here*](../iiag/podcasts/)
         - name: take action
           icon: heart
-          description: Various ways to help!
+          description: Various ways to help! [*Read more here*](../iiag/take_action/)
 ---
