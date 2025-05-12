@@ -1,6 +1,6 @@
 ---
 title: BFM TV
-summary: BFM TV is a French news broadcast television and radio network, wholly owned by RMC BFM. Since the start of the genocide BFM showed biased reports in favor of Israel.
+summary: BFM TV is a French news broadcast television and radio network, wholly owned by RMC BFM. Since the start of the genocide BFM showed biased reports in favor of Israel. The plight of the Palestinians is largely ignored in this media.
 date: 2025-01-01
 tags:
   - BFM TV
@@ -14,6 +14,8 @@ image:
 BFM TV is a French news broadcast television and radio network, wholly owned by RMC BFM. 
 
 As the country's most-watched news channel with 10 million daily viewers, BFM TV "boasts a market share in France that is greater than any equivalent news channel around the world".
+
+Since the start of the genocide BFM showed biased reports in favor of Israel. The plight of the Palestinians is largely ignored in this media.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Le-W6vCMESg?si=LP3xUGoMLBl5bjpP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
