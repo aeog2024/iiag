@@ -12,6 +12,20 @@ image:
 
 
 
+## Bias in Western Media
+
+### Humanitarian Catastrophe in Gaza: Blame on Blockades Overshadowed
+
+
+> **2,1 Millionen Menschen betroffen - Experten warnen vor Hungersnot in Gaza**
+> 
+> *Die Bevölkerung des Gazastreifens leidet unter akuter Ernährungsunsicherheit. Eine halbe Million Menschen ist laut einem Bericht akut vom Verhungern bedroht. Israels Blockade verschärft die Lage.*
+> 
+> [Der Spiegel - 12. Mai 2025 um 16:25 Uhr](https://www.spiegel.de/ausland/gaza-experten-warnen-vor-hungersnot-im-gazastreifen-a-293e60ac-67ed-4df8-9db1-5cdb3c0a8529)
+
+
+
+
 
 
 
