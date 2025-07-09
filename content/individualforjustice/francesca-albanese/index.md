@@ -16,6 +16,17 @@ image:
 - [Report of the Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, Francesca Albanese](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session55/advance-versions/a-hrc-55-73-auv.pdf) (25.03.2024)
 
 
+## From economy of occupation to economy of genocide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQG32hBQD7Q?si=CA4JBykQCxngejeu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- [A/HRC/59/23: From economy of occupation to economy of genocide - Report of the Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 (Advance edited version)](https://www.ohchr.org/en/documents/country-reports/ahrc5923-economy-occupation-economy-genocide-report-special-rapporteur)
+- [Forever-Occupation, genocide, and profit: Special Rapporteur’s report exposes corporate forces behind destruction of Palestine](https://www.ohchr.org/en/press-releases/2025/07/forever-occupation-genocide-and-profit-special-rapporteurs-report-exposes)
+- [From economy of occupation to economy of genocide (Word Document)](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session59/advance-version/a-hrc-59-23-aev.pdf)
+
+
+
+
 ## Media presence
 
 - [Owen Jones. Israel Seeks Palestine's "ERASURE": UN Special Rapporteur Francesca Albanese](https://www.youtube.com/watch?v=by7g67r-4iE) (14.08.2024)
