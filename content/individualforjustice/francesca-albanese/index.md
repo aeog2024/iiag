@@ -25,6 +25,55 @@ image:
 - [From economy of occupation to economy of genocide (Word Document)](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session59/advance-version/a-hrc-59-23-aev.pdf)
 
 
+The following firms and businesses are associated with Israel, as identified in the provided document:
+
+### Military and Defense Sector
+
+- **Elbit Systems**: An Israeli weapons company, originally a public-private partnership and later privatized, is among the top 50 arms manufacturers globally and is deeply involved in Israeli military operations.
+- **Israel Aerospace Industries**: A state-owned Israeli weapons company, also among the top 50 arms manufacturers worldwide, provides a crucial domestic supply of weaponry.
+- **Lockheed Martin** (United States-based): Leads the F-35 fighter jet defense procurement program for Israel.
+- **Leonardo S.p.A.** (Italian manufacturer): Contributes components and parts to the Israeli F-35 fleet.
+
+### Heavy Machinery and Construction
+
+- **Caterpillar**: This company secured a multi-million dollar contract with Israel in 2025.
+- **HD Hyundai** (Korean) and its subsidiary Doosan: Their machinery has been used in the demolition of Palestinian homes and razing of farmland.
+- **Volvo Group** (Swedish): Its licensee is listed in the OHCHR database, and together they own Merkavim Transportation Technologies Ltd., which manufactures armored buses for settlements.
+
+### Energy Sector
+
+- **BP PLC** (British): Expanding its involvement in the Israeli economy, with exploration licenses in Palestinian maritime areas illegally exploited by Israel. It is also a major owner of the Azeri Baku-Tbilisi-Ceyhan pipeline.
+- **Chevron**: A major owner of the Kazakh Caspian Pipeline Consortium.
+- **Petrobras**: Holds significant stakes in Brazilian oil fields that supply crude oil to Israel.
+- **Paz Retail and Energy Ltd.**: An OHCHR database-listed company whose subsidiary supplies jet fuel to the Israeli Air Force.
+
+### Food and Agriculture
+
+- **Tnuv**a: The largest food conglomerate in Israel, majority-owned by Chinese Bright Food (Group) Co., Ltd., has sourced products from colonies.
+- **Netafim**: A global leader in drip irrigation technology, 80% owned by Mexican Orbia Advance Corporation, whose agritech has enabled exploitation of water and land in the West Bank.
+
+### Logistics
+
+- **A.P. Moller – Maersk A/S** : This global logistics giant is involved in shipping goods from colonies and OHCHR database-listed companies to international markets.
+
+### E-commerce and Tourism
+
+- **Amazon.com**: Operates directly in colonies, supporting their economy and expansion.
+- **Booking Holdings Inc.**: Lists properties and hotel rooms in Israeli colonies and is included in the OHCHR database.
+- **Airbnb, Inc.**: Also lists properties and hotel rooms in Israeli colonies and is present in the OHCHR database.
+
+### Financial Sector
+
+- **Jewish National Fund**: A land-purchasing corporate entity founded in 1901, involved in the displacement of Arab Palestinians.
+- **BNP Paribas**: Underwrote Israeli international and domestic treasury bonds.
+- **Barclays**: Also underwrote Israeli international and domestic treasury bonds.
+- **Blackrock**: An asset management firm that purchased Israeli treasury bonds and is a major institutional investor in companies involved in Israeli occupation.
+- **Vanguard**: Another asset management firm that purchased Israeli treasury bonds and is a significant institutional investor in companies involved in Israeli occupation.
+- **Allianz’s asset management subsidiary PIMCO**: Purchased Israeli treasury bonds.
+- **Development Corporation for Israel** (Israel Bonds): Provides bond solicitation services for the Government of Israel to overseas investors.
+
+
+
 
 
 ## Media presence
